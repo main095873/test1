@@ -1,0 +1,2 @@
+cmd="kuy"
+print(cmd)
